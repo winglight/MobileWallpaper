@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Mobile Wallpaper</string>
+    <string name="mainpage">Main Page</string>
+    <string name="classpage">Category</string>
+    <string name="backMain">I am sure!</string>
+    <string name="quitMain">Quit</string>
+    <string name="aboutTitle">Help</string>
+    <string name="pref_18_sure">sure</string>
+    <string name="pref_last_page">lastPage</string>
+    <string name="pref_release_show">showRelease1.6</string>
+    <string name="pref_release_note">file:///android_asset/release_1.6.html</string>
+    <string name="pref_wallpaper">wallpaper</string>
+    <string name="sureTxt">I am above 18 years old and agree on the above claims.</string>
+    <string name="beautyPic">Picture</string>
+    <string name="downloadSingleImaage">Download this single image</string>
+    <string name="downloadAllImaage">Download all images on this page</string>
+    <string name="setAsWallpapper">Set this image as wallpaper</string>
+    <string name="sendImageByMms">Share this image with friends</string>
+    <string name="saveThisLink">Save this link</string>
+    <string name="saveLiknInclNextLevel">Save this link include next level links</string>
+    <string name="browseFavorite">Favorites</string>
+    <string name="sendEmail">Send E-mail</string>
+    <string name="copyEmailAddr">Copy E-mail Address</string>
+    <string name="addLinkFavorite">Add this link to my favorite</string>
+    <string name="addLinkFavoriteSuccess">Success to add this link to my favorite</string>
+    <string name="addLinkFavoriteFail">Failed to dd this link to my favorite</string>
+    <string name="setWallpaperSuccess">Success to set the wallpaper</string>
+    <string name="setWallpaperFail">Failed to set the wallpaper</string>
+    <string name="setWallpaperFirstTip">You need to set the wallpaper first in the app Daily Mobile Walpaper</string>
+    <string name="sendMmsBody">From Daily Mobile Wallpaper.</string>
+</resources>

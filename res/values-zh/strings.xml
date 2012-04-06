@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">手机壁纸大全</string>
+    <string name="mainpage">主页</string>
+    <string name="classpage">分类</string>
+    <string name="backMain">我确定!</string>
+    <string name="quitMain">退出</string>
+    <string name="aboutTitle">帮助</string>
+    <string name="sureTxt">我已满18岁，并且同意以上约定.</string>
+    <string name="downloadSingleImaage">下载这张图片</string>
+    <string name="downloadAllImaage">下载此页所有图片</string>
+    <string name="setAsWallpapper">把这张图片设为桌面</string>
+    <string name="sendImageByMms">与朋友分享这张壁纸</string>
+    <string name="saveThisLink">保存这个链接</string>
+    <string name="saveLiknInclNextLevel">保存这个链接以及下一级链接</string>
+    <string name="browseFavorite">收藏</string>
+    <string name="sendEmail">发送 E-mail</string>
+    <string name="copyEmailAddr">拷贝E-mail地址</string>
+    <string name="addLinkFavorite">收藏这个链接</string>
+    <string name="addLinkFavoriteSuccess">已成功收藏这个链接</string>
+    <string name="addLinkFavoriteFail">链接添加失败，请稍后再试</string>
+    <string name="setWallpaperSuccess">壁纸设置成功</string>
+    <string name="setWallpaperFail">壁纸设置出错,请稍后再试</string>
+    <string name="setWallpaperFirstTip">你需要先在 手机壁纸大全 中设置图片</string>
+    <string name="sendMmsBody">壁纸来自 手机壁纸大全.</string>
+</resources>

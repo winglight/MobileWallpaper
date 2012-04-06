@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<group android:id="@+id/IMAGE_MENU">
+		<item android:id="@+id/menu_download_this_image" android:title="@string/downloadSingleImaage" />
+		<item android:id="@+id/menu_download_all_image" android:title="@string/downloadAllImaage" />
+		<item android:id="@+id/menu_set_as_wallpaper" android:title="@string/setAsWallpapper" />
+		<item android:id="@+id/menu_send_image_mms" android:title="@string/sendImageByMms" />
+	</group>
+	<group android:id="@+id/ANCHOR_MENU">
+		<item android:id="@+id/menu_save_this_link" android:title="@string/saveThisLink" />
+		<item android:id="@+id/menu_save_next_level_link" android:title="@string/saveLiknInclNextLevel" />
+		<item android:id="@+id/menu_add_link_favorite" android:title="@string/addLinkFavorite" />
+	</group>
+	<group android:id="@+id/EMAIL_MENU">
+		<item android:id="@+id/menu_send_email" android:title="@string/sendEmail" />
+	</group>
+ 
+</menu>
